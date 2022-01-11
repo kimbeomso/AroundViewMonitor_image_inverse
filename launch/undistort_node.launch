@@ -1,0 +1,5 @@
+<!-- http://wiki.ros.org/roslaunch/XML/node -->
+<launch>
+   <node name="undistort_node" pkg="ocamcalib_undistort" type="ocamcalib_undistort_node" output="screen">
+    </node>
+</launch>
